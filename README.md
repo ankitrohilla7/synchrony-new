@@ -69,7 +69,7 @@ under AUTHORISATION TAB, use BASIC AUTHENTICATION pass
 Username as "user" and Password as "password"
 
 
----------------> DOWNLOAD IMAGE FROM IMAGE NAME (GET) == http://localhost:8080/fileSystem/username/{username}
+---------------> DOWNLOAD IMAGE FROM USER NAME (GET) == http://localhost:8080/fileSystem/username/{username}
 fileName refers to name of the user.
 
 under AUTHORISATION TAB, use BASIC AUTHENTICATION pass 

@@ -1,0 +1,13 @@
+com\synchrony\project\controller\RegitrationController.class
+com\synchrony\project\repository\FileDataRepository.class
+com\synchrony\project\service\StorageService.class
+com\synchrony\project\controller\StorageController.class
+com\synchrony\project\entity\FileData.class
+com\synchrony\project\storage\util\ImageUtils.class
+com\synchrony\project\config\WebSecurityConfiguration.class
+com\synchrony\project\repository\UserRepository.class
+com\synchrony\project\controller\HomeController.class
+com\synchrony\project\service\CustomUserDetailsService.class
+com\synchrony\project\entity\User.class
+com\synchrony\project\service\CustomUserDetails.class
+com\synchrony\project\SpringSecurityDemoApplication.class
